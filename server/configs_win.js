@@ -9,9 +9,9 @@ var LOCAL_IP = 'localhost';
 
 exports.mysql = function(){
 	return {
-		HOST:'127.0.0.1',
-		USER:'root',
-		PSWD:'',
+		HOST:'120.24.44.84',
+		USER:'myDb',
+		PSWD:'hnist',
 		DB:'db_babykylin',
 		PORT:3306,
 	}
